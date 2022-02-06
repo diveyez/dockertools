@@ -10,5 +10,5 @@
 - docomp-ui.sh (UI for docker-compose file editing and management (Archived by Author))
 - portainer-inst.sh (Installs Portainer for easily managing endpoints)
 - portainer-agent.sh (Installs a Portainer Agent to help keep tabs on host endpoints
-##### Terminal Tools for quickly builsing the required files dor a Docker app
+##### Terminal Tools for quickly building the required files dor a Docker app
 [https://github.com/cloud66-oss/starter/releases/tag/1.4.3](https://github.com/cloud66-oss/starter/releases/tag/1.4.3)
