@@ -4,11 +4,11 @@ Do not ever store credentials in this repository
 
 ## Terminal Tweaks (Mac/Linux)
 
-_oh my zsh framework_
+    _oh my zsh framework_
 
-```bash
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
+    ```bash
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    ```
 
 ## Lazy cli usage tools
 
