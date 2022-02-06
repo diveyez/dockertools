@@ -1,4 +1,4 @@
-# Tools to make development and manageent of applications easy
+# Tools to make development and management of applications easy
 *Do not ever store credentials in this repository*
 #### Lazy terminal usage tools
 
