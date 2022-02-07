@@ -4,11 +4,11 @@ Do not ever store credentials in this repository
 
 ## Terminal Tweaks (Mac/Linux)
 
-    _oh my zsh framework_
-
-    ```bash
-    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-    ```
+```bash
+sudo apt update -y && sudo apt install fish -y
+curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
+omf install ays
+```
 
 ## Lazy cli usage tools
 
