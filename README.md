@@ -10,6 +10,15 @@ curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install 
 omf install ays
 ```
 
+```apt-get install tini```
+*Or use the Dockerfile in ./tini/*
+run tini with -g
+```tini -p SIGTERM -- ... ```
+^ pd signal
+
+```apt install go```
+run ```go install github.com/aptible/supercronic```
+```supercronic CRONTAB```
 ## Lazy cli usage tools
 
 [https://github.com/jesseduffield/lazygit/releases](https://github.com/jesseduffield/lazygit/releases/tag/v0.32.2)
