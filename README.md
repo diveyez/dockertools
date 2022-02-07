@@ -26,6 +26,8 @@ run ```go install github.com/aptible/supercronic```
 
 ## Lazy docker usage tool
 
+Awesome Compose [https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose)
+
 ### File management tools
 
 - dupe-guru.sh
